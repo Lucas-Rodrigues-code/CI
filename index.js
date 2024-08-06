@@ -1,7 +1,7 @@
 function main() {
-  console.log(soma(1, 2));
+  console.log(Soma(1, 2));
 }
-export function soma(a, b) {
+export function Soma(a, b) {
   return a + b;
 }
 
